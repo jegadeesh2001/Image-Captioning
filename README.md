@@ -24,7 +24,7 @@ Given a image from the user or live capture, we will pass the image to the train
 - [x] Merge Architecture using LSTM and CNN for Image Captioning
 - [x] Model Training
 - [x] Model Evaluation on Test data using BLEU Score
-- [x] Displaying the eend results in Web App built using Streamlit
+- [x] Displaying the end results in Web App built using Streamlit
 
 
 ## Datasets and Pre-trained Models Used
@@ -32,4 +32,4 @@ Given a image from the user or live capture, we will pass the image to the train
 * https://keras.io/api/applications/xception/
 
 ## Complete Presentation on Image Captioning
-*https://docs.google.com/presentation/d/1G71wjDyuwb3JDAHYcx9bw7T700WjuVD6kIvX39Lq_Eo/edit?usp=sharing
+* https://docs.google.com/presentation/d/1G71wjDyuwb3JDAHYcx9bw7T700WjuVD6kIvX39Lq_Eo/edit?usp=sharing
