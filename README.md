@@ -14,6 +14,9 @@ Given a image from the user or live capture, we will pass the image to the train
 <hr>
 </div>
 
+![screencapture-localhost-8501-Image-Captioning-2023-03-24-13_14_07](https://user-images.githubusercontent.com/62760269/227456754-d682aa0a-c918-4d77-afb8-0ee78c4a458a.png)
+
+
  ## Tasks Done
 - [x] Extracting Images from https://github.com/goodwillyoga/Flickr8k_dataset
 - [x] Image Preprocessing
